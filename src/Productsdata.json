@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Smartphones",
+      "products": [
+        {
+          "id": 1,
+          "name": "Samsung Galaxy S8",
+          "price": 399.99,
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "name": "Google Pixel",
+          "price": 499.99,
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "name": "Xiaomi Redmi Note 2",
+          "price": 699.99,
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "name": "Samsung Galaxy S7",
+          "price": 599.99,
+          "quantity": 1
+        },
+        {
+          "id": 5,
+          "name": "iPhone 12",
+          "price": 1099.99,
+          "quantity": 1
+        },
+        {
+          "id": 6,
+          "name": "OnePlus 9",
+          "price": 899.99,
+          "quantity": 1
+        },
+        {
+          "id": 7,
+          "name": "Xiaomi Mi 11",
+          "price": 799.99,
+          "quantity": 1
+        },
+        {
+          "id": 8,
+          "name": "Google Pixel 5",
+          "price": 699.99,
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}
